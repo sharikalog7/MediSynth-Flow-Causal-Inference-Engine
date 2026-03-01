@@ -1,0 +1,5 @@
+{
+  "name": "MediSynth-Flow",
+  "description": "AI-driven healthcare causal inference agent for predicting clinical trial outcomes using synthetic control methods.",
+  "requestFramePermissions": []
+}
